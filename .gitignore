@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Binarie
+matchstick
+
 # Object files
 *.o
 *.ko
